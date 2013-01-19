@@ -75,6 +75,8 @@
 
 - (BOOL)application:(UIApplication *)application handleOpenURL:(NSURL *)url
 {
+    
+    
     return [self.sinaweibo handleOpenURL:url];
 }
 

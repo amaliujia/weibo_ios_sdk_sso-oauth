@@ -8,9 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-//#define kAppKey             @"your app_key"
-//#define kAppSecret          @"your app_secret"
-//#define kAppRedirectURI     @"your app_rederict_uri"
+#define kAppKey             @"1490389487"
+#define kAppSecret          @"be8b7f9b295120ceb2985d6844df2580"
+#define kAppRedirectURI     @"http://api.weibo.com/oauth2/default.html"
 
 #ifndef kAppKey
 #error
